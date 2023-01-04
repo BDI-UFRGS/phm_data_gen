@@ -1,0 +1,28 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 12/11/2022 10:33:15 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 12/11/2022 10:33:29 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 10:33:40 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 12/11/2022 10:33:42 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 10:33:53 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 12/11/2022 10:33:55 Simulation Time: 00h  00m  00s  000ms Select Node - 24 - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 10:33:57 Simulation Time: 00h  00m  00s  000ms Select Node - 13 - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 10:33:58 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 12/11/2022 11:10:16 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (003) - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 11:11:04 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 12/11/2022 11:20:29 Simulation Time: 00h  00m  00s  000ms Execute server command: SolveSteadyState
+User:  Time: 12/11/2022 11:20:30 Simulation Time: 00h  00m  00s  000ms Execute server command: ResetTime
+User:  Time: 12/11/2022 11:21:10 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 12/11/2022 11:21:11 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (003) - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 11:21:21 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 12/11/2022 11:21:21 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 12/11/2022 11:21:24 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (003) - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 11:22:51 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 11:24:05 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 12/11/2022 11:24:07 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 11:26:54 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 12/11/2022 11:27:01 Simulation Time: 00h  00m  00s  000ms Select Node - 4 - View1 on Pages\ICVs.page
+User:  Time: 12/11/2022 11:28:31 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 12/11/2022 18:22:12 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 12/11/2022 18:22:12 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

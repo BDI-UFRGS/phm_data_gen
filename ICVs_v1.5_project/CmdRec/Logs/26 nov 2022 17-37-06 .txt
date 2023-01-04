@@ -1,0 +1,7 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 26/11/2022 17:39:19 Simulation Time: 00h  00m  00s  000ms Execute server command: Run
+User:  Time: 26/11/2022 17:39:44 Simulation Time: 00h  02m  04s  500ms Execute server command: Deactivate
+User:  Time: 26/11/2022 17:39:51 Simulation Time: 00h  02m  04s  500ms Open page: Pages\ICVs.page
+User:  Time: 26/11/2022 17:39:51 Simulation Time: 00h  02m  04s  500ms Close page: Pages\ICVs.page

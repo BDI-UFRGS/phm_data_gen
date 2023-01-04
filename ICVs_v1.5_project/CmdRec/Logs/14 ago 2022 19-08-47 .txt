@@ -1,0 +1,5 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 14/08/2022 19:08:57 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 19:09:52 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

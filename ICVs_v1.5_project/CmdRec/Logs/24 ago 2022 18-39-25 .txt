@@ -1,0 +1,174 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 24/08/2022 18:40:29 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:40:37 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:40:39 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:40:47 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:40:50 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:40:53 Simulation Time: 00h  00m  00s  000ms Select Node - 24 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:40:56 Simulation Time: 00h  00m  00s  000ms Select Node - 4 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:40:58 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:41:17 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:41:23 Simulation Time: 00h  00m  00s  000ms Paste Tubing_0 Copy(002) 
+User:  Time: 24/08/2022 18:41:27 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_0 Copy(002) 
+User:  Time: 24/08/2022 18:41:30 Simulation Time: 00h  00m  00s  000ms Paste Tubing_0 Copy(003) 
+User:  Time: 24/08/2022 18:41:35 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_0 Copy(003) 
+User:  Time: 24/08/2022 18:41:42 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:41:46 Simulation Time: 00h  00m  00s  000ms Rotate shape Tubing_0 Copy(002) 
+User:  Time: 24/08/2022 18:41:47 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:41:49 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:41:49 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:41:50 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:41:54 Simulation Time: 00h  00m  00s  000ms Move Fiber 
+User:  Time: 24/08/2022 18:42:00 Simulation Time: 00h  00m  00s  000ms Move Fiber 
+User:  Time: 24/08/2022 18:42:01 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:03 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(003) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:05 Simulation Time: 00h  00m  00s  000ms Delete Tubing_0 Copy(003) 
+User:  Time: 24/08/2022 18:42:24 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:27 Simulation Time: 00h  00m  00s  000ms Paste Tubing_0 Copy(003) 
+User:  Time: 24/08/2022 18:42:33 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_0 Copy(003) 
+User:  Time: 24/08/2022 18:42:34 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:39 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:44 Simulation Time: 00h  00m  00s  000ms Move elements Boundary_Condition_Zone_0 
+User:  Time: 24/08/2022 18:42:45 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:46 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:49 Simulation Time: 00h  00m  00s  000ms Move Fiber 
+User:  Time: 24/08/2022 18:42:50 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:51 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:54 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_0 Copy(002) Node - 0 
+User:  Time: 24/08/2022 18:42:54 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:56 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:56 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:42:57 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:03 Simulation Time: 00h  00m  00s  000ms Connect Fiber 
+User:  Time: 24/08/2022 18:43:03 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:11 Simulation Time: 00h  00m  00s  000ms Select Node - 12 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:14 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:23 Simulation Time: 00h  00m  00s  000ms Select Node - 10 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:24 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:27 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:27 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:29 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:31 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:35 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:41 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 11 dHeight 500
+User:  Time: 24/08/2022 18:43:42 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:42 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:44 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:45 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:46 Simulation Time: 00h  00m  00s  000ms Select Node - 10 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:51 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 10 dHeight 500
+User:  Time: 24/08/2022 18:43:52 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:52 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:56 Simulation Time: 00h  00m  00s  000ms Select Node - 4 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:43:58 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:00 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:01 Simulation Time: 00h  00m  00s  000ms Select Node - 4 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:06 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 4 dHeight 1000
+User:  Time: 24/08/2022 18:44:07 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:07 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:09 Simulation Time: 00h  00m  00s  000ms Select Node - 10 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:10 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:13 Simulation Time: 00h  00m  00s  000ms Select Node - 10 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:15 Simulation Time: 00h  00m  00s  000ms Select Node - 4 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:17 Simulation Time: 00h  00m  00s  000ms Select Node - 24 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:22 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 24 dHeight 1000
+User:  Time: 24/08/2022 18:44:25 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:25 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:27 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:27 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:28 Simulation Time: 00h  00m  00s  000ms Select Node - 24 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:29 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:31 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:32 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:34 Simulation Time: 00h  00m  00s  000ms Select Node - 13 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:42 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 13 dHeight 2727
+User:  Time: 24/08/2022 18:44:44 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:44 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:46 Simulation Time: 00h  00m  00s  000ms Select Node - 13 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:47 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:49 Simulation Time: 00h  00m  00s  000ms Select T_WH - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:53 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:55 Simulation Time: 00h  00m  00s  000ms Select Node - 24 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:44:57 Simulation Time: 00h  00m  00s  000ms Select Node - 13 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:00 Simulation Time: 00h  00m  00s  000ms Select T_WH - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:04 Simulation Time: 00h  00m  00s  000ms Set property value: T_WH dHeight 2727
+User:  Time: 24/08/2022 18:45:05 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:05 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:07 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:10 Simulation Time: 00h  00m  00s  000ms Move elements Boundary_Condition_Zone_1 
+User:  Time: 24/08/2022 18:45:13 Simulation Time: 00h  00m  00s  000ms Move Fiber 
+User:  Time: 24/08/2022 18:45:15 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(003) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:17 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_0 Copy(003) Node - 1 
+User:  Time: 24/08/2022 18:45:17 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:19 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(003) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:22 Simulation Time: 00h  00m  00s  000ms Connect Fiber 
+User:  Time: 24/08/2022 18:45:22 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:28 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(003) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:50 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:52 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:54 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:45:57 Simulation Time: 00h  00m  00s  000ms Select Node - 4 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:01 Simulation Time: 00h  00m  00s  000ms Select Node - 24 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:03 Simulation Time: 00h  00m  00s  000ms Select Node - 9 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:14 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 9 dHeight 800
+User:  Time: 24/08/2022 18:46:15 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:15 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:17 Simulation Time: 00h  00m  00s  000ms Select Node - 9 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:18 Simulation Time: 00h  00m  00s  000ms Select Node - 1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:22 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 1 dHeight 800
+User:  Time: 24/08/2022 18:46:23 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:24 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:27 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:28 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:30 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:31 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:35 Simulation Time: 00h  00m  00s  000ms Select Node - 12 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:41 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 12 dHeight 300
+User:  Time: 24/08/2022 18:46:42 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:42 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:43 Simulation Time: 00h  00m  00s  000ms Select Node - 0 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:46 Simulation Time: 00h  00m  00s  000ms Set property value: Node - 0 dHeight 300
+User:  Time: 24/08/2022 18:46:47 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:48 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:46:56 Simulation Time: 00h  00m  00s  000ms Select Boundary Condition - 1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:47:00 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:47:03 Simulation Time: 00h  00m  00s  000ms Select Node - 9 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:47:04 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:47:05 Simulation Time: 00h  00m  00s  000ms Select Node - 1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:47:06 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:47:08 Simulation Time: 00h  00m  00s  000ms Select Node - 13 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:47:09 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:52:40 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:52:41 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:52:48 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_1 pPrimaryLossSpecification.dRoughness 0
+User:  Time: 24/08/2022 18:52:55 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_1 pPrimaryLossSpecification.dRoughness 0,183
+User:  Time: 24/08/2022 18:52:57 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:52:57 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:52:58 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:00 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(003) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:03 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 Copy(003) pPrimaryLossSpecification.dRoughness 0
+User:  Time: 24/08/2022 18:53:08 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 Copy(003) pPrimaryLossSpecification.dRoughness 0,183
+User:  Time: 24/08/2022 18:53:09 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:09 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:11 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:14 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 pPrimaryLossSpecification.dRoughness 0
+User:  Time: 24/08/2022 18:53:20 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 pPrimaryLossSpecification.dRoughness 0,183
+User:  Time: 24/08/2022 18:53:21 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:21 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:23 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:27 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 Copy(002) pPrimaryLossSpecification.dRoughness 0
+User:  Time: 24/08/2022 18:53:32 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 Copy(002) pPrimaryLossSpecification.dRoughness 0,183
+User:  Time: 24/08/2022 18:53:33 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:33 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:34 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:36 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:43 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 Copy(001) pPrimaryLossSpecification.dRoughness 0
+User:  Time: 24/08/2022 18:53:48 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 Copy(001) pPrimaryLossSpecification.dRoughness 0,183
+User:  Time: 24/08/2022 18:53:49 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:50 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 24/08/2022 18:53:53 Simulation Time: 00h  00m  00s  000ms Execute server command: SolveSteadyState
+User:  Time: 24/08/2022 18:53:55 Simulation Time: 00h  00m  00s  000ms Execute server command: ResetTime
+User:  Time: 24/08/2022 18:59:40 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 24/08/2022 18:59:40 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

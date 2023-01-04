@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TreeState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ExpandedNodes>
+    <string />
+    <string>Project Database</string>
+    <string>Master Database</string>
+    <string>Master Database\Flow Solver</string>
+    <string>Master Database\Flow Solver\Custom Losses</string>
+    <string>Master Database\Flow Solver\Nodes and Boundaries</string>
+    <string>Master Database\Flow Solver\Nuclear</string>
+    <string>Master Database\Flow Solver\Nuclear\Reactor Building Blocks</string>
+    <string>Master Database\Flow Solver\Piping</string>
+    <string>Master Database\Flow Solver\Restrictors</string>
+    <string>Master Database\Flow Solver\Restrictors\Crane</string>
+    <string>Master Database\Flow Solver\Restrictors\Idelchik</string>
+    <string>Master Database\Flow Solver\Restrictors\Miller</string>
+    <string>Master Database\Flow Solver\Rotating Components</string>
+    <string>Master Database\Flow Solver\Turbos and Pumps</string>
+    <string>Master Database\Flow Solver\Valves</string>
+    <string>Master Database\Flow Solver\Valves\Miller</string>
+    <string>Master Database\Ansys</string>
+    <string>Master Database\Visualisation</string>
+  </ExpandedNodes>
+  <SelectedItem>Master Database\Flow Solver\Custom Losses\Lumped Resistive Duct</SelectedItem>
+  <TopItem>Project Database</TopItem>
+</TreeState>

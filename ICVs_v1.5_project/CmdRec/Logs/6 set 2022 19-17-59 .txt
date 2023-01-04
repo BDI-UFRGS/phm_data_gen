@@ -1,0 +1,14 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 06/09/2022 19:18:31 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 06/09/2022 19:34:57 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (003) - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:35:04 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 06/09/2022 19:35:07 Simulation Time: 00h  00m  00s  000ms Select Node - 9 - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:35:13 Simulation Time: 00h  00m  00s  000ms Select Node - 1 - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:35:16 Simulation Time: 00h  00m  00s  000ms Select Node - 9 - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:35:17 Simulation Time: 00h  00m  00s  000ms Select Node - 24 - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:35:18 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 06/09/2022 19:42:12 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:42:14 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 06/09/2022 19:42:16 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

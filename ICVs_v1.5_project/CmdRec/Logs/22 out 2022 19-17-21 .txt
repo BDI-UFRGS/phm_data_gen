@@ -1,0 +1,8 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 22/10/2022 19:17:46 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 22/10/2022 19:27:51 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 22/10/2022 19:27:59 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (003) - View1 on Pages\ICVs.page
+User:  Time: 22/10/2022 20:06:11 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 22/10/2022 20:06:11 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

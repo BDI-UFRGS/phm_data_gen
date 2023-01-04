@@ -1,0 +1,23 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 14/08/2022 17:42:21 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 17:42:29 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 17:42:29 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_1 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 17:42:31 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 17:42:32 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_1 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 17:42:33 Simulation Time: 00h  00m  00s  000ms Select Node - 3 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 17:57:39 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 17:57:44 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dPressure 720,5234635463
+User:  Time: 14/08/2022 17:57:47 Simulation Time: 00h  00m  00s  000ms Execute server command: SolveSteadyState
+User:  Time: 14/08/2022 17:57:48 Simulation Time: 00h  00m  00s  000ms Execute server command: ResetTime
+User:  Time: 14/08/2022 17:57:52 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 17:57:52 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 17:57:53 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 17:59:30 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:00:10 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:00:13 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:00:15 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:00:16 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:01:06 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:01:06 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

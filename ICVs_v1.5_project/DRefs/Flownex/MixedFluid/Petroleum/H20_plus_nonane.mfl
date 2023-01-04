@@ -1,0 +1,131 @@
+<?xml version="1.0" standalone="yes"?>
+<IPS>
+  <Library Name="IPS" Version="8.14.0.4677" />
+  <Library Name="CapeOpenFluidGenerator" Version="1.0.8140.0" />
+  <Library Name="DCS" Version="8.14.0.0" />
+  <Library Name="ElectricalNetworkSolver" Version="8.14.0.0" />
+  <Library Name="Flownex" Version="8.14.0.0" />
+  <Library Name="ForceCalculations" Version="1.0.8140.0" />
+  <Library Name="IPS.Actions" Version="8.14.0.0" />
+  <Library Name="IPS.Alarms" Version="8.14.0.0" />
+  <Library Name="IPS.Ansys" Version="8.14.0.0" />
+  <Library Name="IPS.Backtracking" Version="8.14.0.0" />
+  <Library Name="IPS.CAESAR2Importer" Version="8.14.0.0" />
+  <Library Name="IPS.DataTransfer" Version="8.14.0.0" />
+  <Library Name="IPS.Designer" Version="8.14.0.0" />
+  <Library Name="IPS.EES" Version="8.14.0.0" />
+  <Library Name="IPS.Excel" Version="8.14.0.0" />
+  <Library Name="IPS.ExcelInputSheets" Version="8.14.0.0" />
+  <Library Name="IPS.ExcelReporting" Version="8.14.0.0" />
+  <Library Name="IPS.Exposers" Version="8.14.0.0" />
+  <Library Name="IPS.FMI" Version="8.14.0.0" />
+  <Library Name="IPS.GlobalParameters" Version="8.14.0.0" />
+  <Library Name="IPS.Logger" Version="8.14.0.0" />
+  <Library Name="IPS.Mathcad" Version="8.14.0.0" />
+  <Library Name="IPS.ParameterDisplay" Version="8.14.0.0" />
+  <Library Name="IPS.PropertyMonitor" Version="8.14.0.0" />
+  <Library Name="IPS.ROHR2Importer" Version="8.14.0.0" />
+  <Library Name="IPS.ScaleDrawing" Version="8.14.0.0" />
+  <Library Name="IPS.Scheduler" Version="8.14.0.0" />
+  <Library Name="IPS.Scripting" Version="8.14.0.0" />
+  <Library Name="IPS.TextFileLink" Version="8.14.0.0" />
+  <Library Name="IPS.Tools" Version="8.14.0.0" />
+  <Library Name="IPS.VideoRecorder" Version="1.0.0.0" />
+  <Library Name="IPS.Visualisation" Version="8.14.0.0" />
+  <Library Name="NistFluidGenerator" Version="1.0.8140.0" />
+  <Flownex.DataReferences.Materials.MixedFluids>
+    <Properties>BackgroundFluid ConductivityMixingMethodGas ConductivityMixingMethodLiquid ConductivityScriptsGas.SelectedScript ConductivityScriptsLiquid.SelectedScript FluidType IncondensableTwoPhaseFluid ParticleSolid PersistedIdentifierWithTemplate TID UserDescription ViscosityMixingMethodGas ViscosityMixingMethodLiquid ViscosityScriptsGas.SelectedScript ViscosityScriptsLiquid.SelectedScript </Properties>
+    <Values>  "Liquids - H2O - Water {Master}" "Wilke" "Filippov" "k(P,T,mu[],k[],x[],mf[])" "k(P,T,mu[],k[],x[],mf[])" "LiquidMixture" "General - Ar - Argon {Master}" "" "New Mixed Fluid 1| Petroleum (Flownex.DataReferences.Materials.MixedFluids) {Project}" "" "" "Wilke" "KendallMonroe" "Mu(P,T,mu[],k[],x[],mf[])" "Mu(P,T,mu[],k[],x[],mf[])" </Values>
+    <List Name="ConductivityScriptsGas.Scripts">
+      <System.Collections.Generic.List_HEX60_1>
+        <ListItems>
+          <Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+            <Properties>Code Name </Properties>
+            <Item Index="0">
+              <Values>  "// Sample to illustrate language features and parameter usage only.
+// This is not the recommended formulation to calculate the conductivity of a mixture. 
+double dSum=0.0; 
+for (int i=0; i&amp;lt;CompCount ; i++)
+{
+	dSum += Conductivities[i]*MassFractions[i];
+}
+Result=dSum;" "k(P,T,mu[],k[],x[],mf[])" </Values>
+            </Item>
+          </Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+        </ListItems>
+      </System.Collections.Generic.List_HEX60_1>
+    </List>
+    <List Name="ConductivityScriptsLiquid.Scripts">
+      <System.Collections.Generic.List_HEX60_1>
+        <ListItems>
+          <Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+            <Properties>Code Name </Properties>
+            <Item Index="0">
+              <Values>  "// Sample to illustrate language features and parameter usage only.
+// This is not the recommended formulation to calculate the conductivity of a mixture. 
+double dSum=0.0; 
+for (int i=0; i&amp;lt;CompCount ; i++)
+{
+	dSum += Conductivities[i]*MassFractions[i];
+}
+Result=dSum;" "k(P,T,mu[],k[],x[],mf[])" </Values>
+            </Item>
+          </Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+        </ListItems>
+      </System.Collections.Generic.List_HEX60_1>
+    </List>
+    <List Name="SelectedPureLiquids">
+      <System.Collections.Generic.List_HEX60_1>
+        <ListItems>
+          <System.String>
+            <Properties>Value </Properties>
+            <Item Index="0">
+              <Values>  "Liquids - H2O - Water {Master}" </Values>
+            </Item>
+            <Item Index="1">
+              <Values>  "Liquids - C9H20 - Nonane {Master}" </Values>
+            </Item>
+          </System.String>
+        </ListItems>
+      </System.Collections.Generic.List_HEX60_1>
+    </List>
+    <List Name="ViscosityScriptsGas.Scripts">
+      <System.Collections.Generic.List_HEX60_1>
+        <ListItems>
+          <Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+            <Properties>Code Name </Properties>
+            <Item Index="0">
+              <Values>  "// Sample to illustrate language features and parameter usage only.
+// This is not the recommended formulation to calculate the viscosity of a mixture. 
+double dSum=0.0; 
+for (int i=0; i&amp;lt;CompCount ; i++)
+{
+	dSum += Viscosities[i]*MassFractions[i];
+}
+Result=dSum;" "Mu(P,T,mu[],k[],x[],mf[])" </Values>
+            </Item>
+          </Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+        </ListItems>
+      </System.Collections.Generic.List_HEX60_1>
+    </List>
+    <List Name="ViscosityScriptsLiquid.Scripts">
+      <System.Collections.Generic.List_HEX60_1>
+        <ListItems>
+          <Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+            <Properties>Code Name </Properties>
+            <Item Index="0">
+              <Values>  "// Sample to illustrate language features and parameter usage only.
+// This is not the recommended formulation to calculate the viscosity of a mixture. 
+double dSum=0.0; 
+for (int i=0; i&amp;lt;CompCount ; i++)
+{
+	dSum += Viscosities[i]*MassFractions[i];
+}
+Result=dSum;" "Mu(P,T,mu[],k[],x[],mf[])" </Values>
+            </Item>
+          </Flownex.DataReferences.Materials.MaterialProperty.ScriptNameCodePair>
+        </ListItems>
+      </System.Collections.Generic.List_HEX60_1>
+    </List>
+  </Flownex.DataReferences.Materials.MixedFluids>
+</IPS>

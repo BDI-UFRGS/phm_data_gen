@@ -1,0 +1,17 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 23/08/2022 19:39:27 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 23/08/2022 19:57:41 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 23/08/2022 19:57:48 Simulation Time: 00h  00m  00s  000ms Set property value: P_saida TotalPressure 65985,2389135777
+User:  Time: 23/08/2022 19:57:53 Simulation Time: 00h  00m  00s  000ms Set property value: P_saida TotalPressure 672,858748749097
+User:  Time: 23/08/2022 19:57:55 Simulation Time: 00h  00m  00s  000ms Set property value: P_saida TotalPressure 672,858748749097
+User:  Time: 23/08/2022 19:57:56 Simulation Time: 00h  00m  00s  000ms Set property value: P_saida TotalPressure 6728587,48749097
+User:  Time: 23/08/2022 19:57:58 Simulation Time: 00h  00m  00s  000ms Set property value: P_saida TotalPressure 6728587,48749097
+User:  Time: 23/08/2022 19:57:59 Simulation Time: 00h  00m  00s  000ms Set property value: P_saida TotalPressure 672,858748749097
+User:  Time: 23/08/2022 19:58:01 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 23/08/2022 19:58:02 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 23/08/2022 19:58:03 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 23/08/2022 19:58:03 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 23/08/2022 19:58:14 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 23/08/2022 19:58:14 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

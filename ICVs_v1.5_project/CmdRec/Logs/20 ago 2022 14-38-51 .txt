@@ -1,0 +1,82 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 20/08/2022 14:39:00 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:04 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:16 Simulation Time: 00h  00m  00s  000ms Set property value: General Empirical Relationship - 0 dHeat -10000
+User:  Time: 20/08/2022 14:47:16 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:17 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:18 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:19 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:45 Simulation Time: 00h  00m  00s  300ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:45 Simulation Time: 00h  00m  00s  300ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:50 Simulation Time: 00h  00m  00s  400ms Set property value: General Empirical Relationship - 0 dHeat -30000
+User:  Time: 20/08/2022 14:47:51 Simulation Time: 00h  00m  00s  400ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:51 Simulation Time: 00h  00m  00s  400ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:52 Simulation Time: 00h  00m  00s  400ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:47:54 Simulation Time: 00h  00m  00s  500ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:01 Simulation Time: 00h  00m  00s  500ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:02 Simulation Time: 00h  00m  00s  500ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:05 Simulation Time: 00h  00m  00s  500ms Set property value: General Empirical Relationship - 0 dHeat -10000
+User:  Time: 20/08/2022 14:48:05 Simulation Time: 00h  00m  00s  500ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:05 Simulation Time: 00h  00m  00s  500ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:07 Simulation Time: 00h  00m  00s  500ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:08 Simulation Time: 00h  00m  00s  500ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:28 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:28 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:31 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:33 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:34 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:35 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:38 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:40 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:42 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:43 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:44 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:45 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:46 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:48 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:49 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:50 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:52 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:52 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:56 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:58 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:48:59 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:12 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:18 Simulation Time: 00h  00m  00s  000ms Delete General Empirical Relationship - 0 
+User:  Time: 20/08/2022 14:49:20 Simulation Time: 00h  00m  00s  000ms Select T_WH - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:21 Simulation Time: 00h  00m  00s  000ms Delete T_WH 
+User:  Time: 20/08/2022 14:49:23 Simulation Time: 00h  00m  00s  000ms Select Node - 13 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:24 Simulation Time: 00h  00m  00s  000ms Delete Node - 13 
+User:  Time: 20/08/2022 14:49:26 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:29 Simulation Time: 00h  00m  00s  000ms Connect Fiber Node - 0 
+User:  Time: 20/08/2022 14:49:33 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:36 Simulation Time: 00h  00m  00s  000ms Select Node - 0 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:37 Simulation Time: 00h  00m  00s  000ms Move elements Node - 0 
+User:  Time: 20/08/2022 14:49:37 Simulation Time: 00h  00m  00s  000ms Move elements Node - 0 
+User:  Time: 20/08/2022 14:49:37 Simulation Time: 00h  00m  00s  000ms Move elements Node - 0 
+User:  Time: 20/08/2022 14:49:39 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:40 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:41 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:42 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:42 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:42 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:42 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:42 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:42 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:43 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:43 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:43 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:43 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:43 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:43 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:43 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:44 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:44 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:44 Simulation Time: 00h  00m  00s  000ms Move elements Tubing_1 
+User:  Time: 20/08/2022 14:49:45 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:46 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Well_Head - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 14:49:49 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 14:51:12 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 14:51:12 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

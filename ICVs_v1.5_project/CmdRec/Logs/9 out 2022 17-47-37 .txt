@@ -1,0 +1,14 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 09/10/2022 17:48:01 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 09/10/2022 17:49:29 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 09/10/2022 17:49:35 Simulation Time: 00h  00m  00s  000ms Set property value: General Empirical Relationship - 0 dHeat -300000
+User:  Time: 09/10/2022 17:49:45 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 09/10/2022 17:49:46 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 09/10/2022 17:49:46 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 09/10/2022 17:50:02 Simulation Time: 00h  00m  00s  000ms Set property value: General Empirical Relationship - 0 dHeat -3000
+User:  Time: 09/10/2022 17:50:07 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 09/10/2022 17:50:07 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 09/10/2022 17:50:08 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 09/10/2022 17:50:08 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

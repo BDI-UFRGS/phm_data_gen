@@ -1,0 +1,18 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 14/08/2022 18:40:42 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:24 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:24 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Well_Head - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:35 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:35 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:44 Simulation Time: 00h  00m  00s  000ms Select Node - 14 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:53 Simulation Time: 00h  00m  00s  000ms Set property value: T_WH Identifier T_WH
+User:  Time: 14/08/2022 18:44:54 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:54 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:55 Simulation Time: 00h  00m  00s  000ms Select T_WH - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:56 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:44:59 Simulation Time: 00h  00m  00s  000ms Select T_WH - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:46:09 Simulation Time: 00h  00m  00s  000ms Set property value: T_WH TotalTemperature 73,5155848527311
+User:  Time: 14/08/2022 18:47:07 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:47:07 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page
