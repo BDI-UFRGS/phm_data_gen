@@ -1,5 +1,6 @@
 __pycache__/
 notebooks/.ipynb_checkpoints/
+notebooks/mlruns/
 raw_data/
 references/
 *.xlsx
