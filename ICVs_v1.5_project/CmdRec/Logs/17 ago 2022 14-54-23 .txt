@@ -1,0 +1,22 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 17/08/2022 15:10:34 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:11:14 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 17/08/2022 15:11:15 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:11:22 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:11:24 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:11:26 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:11:32 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 dLength 500
+User:  Time: 17/08/2022 15:11:34 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 17/08/2022 15:12:12 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 17/08/2022 15:12:13 Simulation Time: 00h  00m  00s  000ms Select Node - 4 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:12:14 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 17/08/2022 15:16:12 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:16:27 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 17/08/2022 15:17:30 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 17/08/2022 15:18:37 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 17/08/2022 15:18:39 Simulation Time: 00h  00m  00s  000ms Execute server command: SolveSteadyState
+User:  Time: 17/08/2022 15:18:40 Simulation Time: 00h  00m  00s  000ms Execute server command: ResetTime
+User:  Time: 17/08/2022 15:23:57 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 17/08/2022 15:23:57 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

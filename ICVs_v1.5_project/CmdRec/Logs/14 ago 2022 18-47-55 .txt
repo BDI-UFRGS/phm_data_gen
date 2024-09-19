@@ -1,0 +1,13 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 14/08/2022 18:49:58 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:00 Simulation Time: 00h  00m  00s  000ms Select Node - 14 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:10 Simulation Time: 00h  00m  00s  000ms Set property value: T_WH Identifier T_WH
+User:  Time: 14/08/2022 18:50:13 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:13 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:15 Simulation Time: 00h  00m  00s  000ms Select T_WH - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:29 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:29 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:31 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:50:31 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

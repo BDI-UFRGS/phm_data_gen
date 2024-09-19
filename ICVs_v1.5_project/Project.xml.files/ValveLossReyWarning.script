@@ -1,0 +1,167 @@
+//script using directives
+//css_ref IPS.Core.dll;
+//css_ref IPS.PluginInterface.dll;
+//css_ref Flownex.dll;
+//css_ref Flownex.Resources.dll;
+using System;
+using IPS.Properties;
+using IPS.Scripting;
+
+//script must be derived from IFNXComponentScript
+public class Script: Flownex.Scripting.IFNXComponentScript
+{
+	IPS.Properties.Double _Valve_Diameter;
+	IPS.Properties.Double _rho;
+	IPS.Properties.Double _Volume_Flow_Rate;
+	IPS.Properties.Double _mu;
+	IPS.Properties.Double _Valve_Re;
+	IPS.Properties.Text _Valve_ID;
+	double Valve_Area;
+
+	//do pre simulation initialisation here
+	public override void Initialise()
+	{
+  	}
+  
+	//do post simulation cleanup here
+	public override void Cleanup()
+	{
+  	}
+  
+  	//any calculations during each steady state pressure iteration
+	public override void SteadyStatePressureIteration(int iIterationNumber)
+	{
+		Valve_Area = Math.PI * Math.Pow(_Valve_Diameter.Value/2,2);
+		_Valve_Re.Value = (_rho.Value * _Volume_Flow_Rate.Value * _Valve_Diameter.Value) / (_mu.Value * Valve_Area);
+		
+		//Warnings
+		if (_Valve_Re.Value < 5000)
+		{
+			Flownex.Errors.FlownexErrorSystem.ReportElementWarning(Flownex.Resources.Flownex.CompoundErrorFormat("92700"), Parent, "Reynolds number < 5000.  The loss factor used is based on Reynolds numbers > 5000.");
+		}
+	}
+  
+  	//any calculations during each transient pressure iteration
+	public override void TransientPressureIteration(int iIterationNumber, double Time)
+	{
+    		SteadyStatePressureIteration(iIterationNumber);
+	}	
+
+    //any calculations during each steady state temperature iteration
+	public override void SteadyStateTemperatureIteration(int iIterationNumber)
+	{
+	}
+  
+  	//any calculations during each transient temperature iteration
+	public override void TransientTemperatureIteration(int iIterationNumber, double Time)
+	{
+    		SteadyStateTemperatureIteration(iIterationNumber);
+	}	 
+  
+    //any calculations during each steady state concentration iteration
+	public override void SteadyStateConcentrationIteration(int iIterationNumber)
+	{
+	}
+  
+  	//any calculations during each transient concentration iteration
+	public override void TransientConcentrationIteration(int iIterationNumber, double Time)
+	{
+    		SteadyStateConcentrationIteration(iIterationNumber);
+	}	 
+  
+  	//return true if this script has own convergence parameter checking
+	//usually return false
+	public override bool NeedsAnotherPressureIteration()
+	{
+		return false;
+	}
+  
+  	//return true if this script has own convergence parameter checking
+	//usually return false
+	public override bool NeedsAnotherTemperatureIteration()
+	{
+    	return false;
+	}	 
+  
+  	//return true if this script has own convergence parameter checking
+	//usually return false
+	public override bool NeedsAnotherConcentrationIteration()
+	{
+    	return false;
+	}	 
+
+	//constructer initialises parameters
+	public Script()
+	{
+		_Valve_Diameter = new IPS.Properties.Double();
+		_rho = new IPS.Properties.Double();
+		_Volume_Flow_Rate = new IPS.Properties.Double();
+		_mu = new IPS.Properties.Double();
+		_Valve_Re = new IPS.Properties.Double();
+		_Valve_ID = new IPS.Properties.Text();
+		_Valve_Diameter.Value = 0;
+		_rho.Value = 0;
+		_Volume_Flow_Rate.Value = 0;
+		_mu.Value = 0;
+		_Valve_Re.Value = 0;
+		_Valve_Diameter.SetDisplayUnit(IPS.Units.UnitGroup.Length);
+		_rho.SetDisplayUnit(IPS.Units.UnitGroup.Density);
+		_Volume_Flow_Rate.SetDisplayUnit(IPS.Units.UnitGroup.Flow_Rate_Volume);
+		_mu.SetDisplayUnit(IPS.Units.UnitGroup.Viscosity_Dynamic);
+	}
+
+	//property declarations to make
+	//parameters visible to outside world
+	[PropertyUsage(UseProperty.DYNAMIC)]
+	public IPS.Properties.Double Valve_Diameter
+	{
+		get
+		{
+			return _Valve_Diameter;
+		}
+	}
+	
+	[PropertyUsage(UseProperty.DYNAMIC)]
+	public IPS.Properties.Double rho
+	{
+		get
+		{
+			return _rho;
+		}
+	}
+	
+	[PropertyUsage(UseProperty.DYNAMIC)]
+	public IPS.Properties.Double Volume_Flow_Rate
+	{
+		get
+		{
+			return _Volume_Flow_Rate;
+		}
+	}
+	
+	[PropertyUsage(UseProperty.DYNAMIC)]
+	public IPS.Properties.Double mu
+	{
+		get
+		{
+			return _mu;
+		}
+	}
+	
+	[PropertyUsage(UseProperty.RESULT)]
+	public IPS.Properties.Double Valve_Re
+	{
+		get
+		{
+			return _Valve_Re;
+		}
+	}
+	[PropertyUsage(UseProperty.DYNAMIC)]
+	public IPS.Properties.Text Valve_ID
+	{
+		get
+		{
+			return _Valve_ID;
+		}
+	}
+}

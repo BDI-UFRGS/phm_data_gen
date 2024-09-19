@@ -1,0 +1,21 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 20/08/2022 10:22:03 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:32 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:33 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:38 Simulation Time: 00h  00m  00s  000ms Set property value: Top_ICV_1 dInitFractionOpen 1
+User:  Time: 20/08/2022 11:25:38 Simulation Time: 00h  00m  00s  000ms Set property value: Top_ICV_1 {Control Valve Loss Data}Fraction open 1
+User:  Time: 20/08/2022 11:25:39 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:39 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:40 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:44 Simulation Time: 00h  00m  00s  000ms Set property value: Bottom_ICV_1 dInitFractionOpen 1
+User:  Time: 20/08/2022 11:25:44 Simulation Time: 00h  00m  00s  000ms Set property value: Bottom_ICV_1 {Control Valve Loss Data}Fraction open 1
+User:  Time: 20/08/2022 11:25:45 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:45 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:47 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:48 Simulation Time: 00h  00m  00s  000ms Select Top_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:49 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 20/08/2022 11:25:50 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 20/08/2022 11:32:40 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 20/08/2022 11:32:40 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

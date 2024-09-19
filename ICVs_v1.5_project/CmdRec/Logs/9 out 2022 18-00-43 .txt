@@ -1,0 +1,8 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 09/10/2022 18:01:12 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 09/10/2022 18:01:18 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 09/10/2022 18:01:26 Simulation Time: 00h  00m  00s  000ms Set property value: General Empirical Relationship - 0 dHeat -10000
+User:  Time: 09/10/2022 18:01:32 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 09/10/2022 18:01:32 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

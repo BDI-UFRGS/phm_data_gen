@@ -1,0 +1,23 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 14/08/2022 18:18:15 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:18:19 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:18:19 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:19:06 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dTemperature 88
+User:  Time: 14/08/2022 18:19:07 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dTemperature 88
+User:  Time: 14/08/2022 18:19:07 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:19:08 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:19:09 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:19:42 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dPressure 720,5234635463
+User:  Time: 14/08/2022 18:19:42 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dPressure 720,5234635463
+User:  Time: 14/08/2022 18:19:49 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dPressure 720,5234635463
+User:  Time: 14/08/2022 18:20:03 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dPressure 720,5234635463
+User:  Time: 14/08/2022 18:20:04 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dPressure 720,5234635463
+User:  Time: 14/08/2022 18:20:09 Simulation Time: 00h  00m  00s  000ms Set property value: Boundary_Condition_Zone_0 dPressure 720,5234635463
+User:  Time: 14/08/2022 18:23:28 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:23:28 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Well_Head - View1 on Pages\ICVs.page
+User:  Time: 14/08/2022 18:26:08 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:26:09 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 14/08/2022 18:26:15 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 14/08/2022 18:26:15 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

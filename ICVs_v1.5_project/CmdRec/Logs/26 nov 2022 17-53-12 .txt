@@ -1,0 +1,53 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 26/11/2022 17:53:32 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (002) - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 17:53:41 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 17:53:43 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (002) - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 17:54:22 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 17:56:39 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:26 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:33 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:35 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_0 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:35 Simulation Time: 00h  00m  00s  000ms Select Bottom_ICV_1 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:36 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:40 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:42 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:44 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:45 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:48 Simulation Time: 00h  00m  00s  000ms Select Boundary Condition - 1 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:55 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:14:56 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_0 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:00 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Zone_1 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:02 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:04 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (001) - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:06 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (002) - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:15 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (001) - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:31 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:31 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:35 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:40 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:42 Simulation Time: 00h  00m  00s  000ms Select General Empirical Relationship - 0 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:42 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:46 Simulation Time: 00h  00m  00s  000ms Select Boundary_Condition_Well_Head - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:47 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:51 Simulation Time: 00h  00m  00s  000ms Select Tubing_1 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:55 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:57 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:15:59 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:06 Simulation Time: 00h  00m  00s  000ms Select Node - 10 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:07 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:09 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:10 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:11 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 (001) - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:12 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:13 Simulation Time: 00h  00m  00s  000ms Select Node - 11 - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:14 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:15 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:16 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:39 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:40 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:42 Simulation Time: 00h  00m  00s  000ms Select P_saida - View1 on Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:48 Simulation Time: 00h  00m  00s  000ms Set property value: P_out Identifier P_out
+User:  Time: 26/11/2022 18:16:50 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 26/11/2022 18:16:52 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page

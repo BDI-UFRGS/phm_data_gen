@@ -1,0 +1,18 @@
+Operating system: Microsoft Windows 10 Pro
+Logged in user name: rafae
+Machine name: LAPTOP02
+User:  Time: 06/09/2022 19:13:18 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 06/09/2022 19:15:58 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(003) - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:06 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 (003) Identifier Tubing_0 (003)
+User:  Time: 06/09/2022 19:16:08 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:09 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:09 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(002) - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:16 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 (002) Identifier Tubing_0 (002)
+User:  Time: 06/09/2022 19:16:16 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:16 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:19 Simulation Time: 00h  00m  00s  000ms Select Tubing_0 Copy(001) - View1 on Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:25 Simulation Time: 00h  00m  00s  000ms Set property value: Tubing_0 (001) Identifier Tubing_0 (001)
+User:  Time: 06/09/2022 19:16:25 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:25 Simulation Time: 00h  00m  00s  000ms Deselect all on Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:38 Simulation Time: 00h  00m  00s  000ms Open page: Pages\ICVs.page
+User:  Time: 06/09/2022 19:16:38 Simulation Time: 00h  00m  00s  000ms Close page: Pages\ICVs.page

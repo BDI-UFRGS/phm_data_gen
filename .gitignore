@@ -1,0 +1,10 @@
+__pycache__/
+notebooks/.ipynb_checkpoints/
+notebooks/mlruns/
+raw_data/
+references/
+*.xlsx
+*.pkl
+notebooks/00-Pre-processing.ipynb
+notebooks/img/esquematico.png
+ICVs_v1.5_project/**/**.txt
